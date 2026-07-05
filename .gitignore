@@ -19,6 +19,7 @@ TestResults/
 *.log
 
 appsettings.Development.json
+tokens.json
 
 bin/
 obj/

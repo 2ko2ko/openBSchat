@@ -5,7 +5,7 @@ openBSChat (short for **open Browser Source Chat**) is a C# application for disp
 For now only Twitch via Twitch EventSub is supported but support for  Legacy tmi.js as well as Youtube LiveChat is planned.
 
 ## Connecting your Twitch Channel
-Edit `appsettings.json` to match your Channels Credentials.
+Edit `appsettings.json` and add your ClientID and specify the Channel.
 For local development i recommended creating an `appsettings.Development.json` with the same Contents.
 
 ## Building
